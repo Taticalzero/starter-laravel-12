@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## O que contém nesse Projeto
+## Pacotes Instalados :
 - [X] Php 8.4.7
 - [X] Laravel 12
 - [X] Postgres
