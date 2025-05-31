@@ -8,13 +8,13 @@
 </p>
 
 ## O que contém nesse Projeto
-[X] Php 8.4.7
-[X] Laravel 12
-[X] Postgres
-[X] Tailwind v3
-[X] Husky - Git Hooks
-[X] Pest
-[X] Pint
-[X] Debug Bar
-[X] Larastran v3
-[X] Git Actions
+- [X] Php 8.4.7
+- [X] Laravel 12
+- [X] Postgres
+- [X] Tailwind v3
+- [X] Husky - Git Hooks
+- [X] Pest
+- [X] Pint
+- [X] Debug Bar
+- [X] Larastran v3
+- [X] Git Actions
